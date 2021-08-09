@@ -1,5 +1,6 @@
 # HFT-HPC
 Parallel Computing on HFT
+
 In Stock market, the traders with the fastest execution speeds are at greater profits than traders  with slower execution speeds. Hence there is a dire need to optimize the algorithms to minimize the time of execution and to maximize the profits.
 
 
