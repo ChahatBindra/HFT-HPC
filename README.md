@@ -9,3 +9,7 @@ The project explores the domain of High Power Computation (HPC) using High Frequ
 
 
 Attempts were made to minimize the training and prediction time. Multiple back ends like #algorithms Loky, Multi-threading etc. were examined and the results have been presented. 
+
+Overview of our project:- 
+
+https://www.youtube.com/watch?v=iIFF2m4NumI
